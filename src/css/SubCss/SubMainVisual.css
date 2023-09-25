@@ -1,0 +1,281 @@
+.SubMainVisual {
+  width: 100%;
+  height: 674px;
+  z-index: -1;
+}
+
+.Subinner01 {
+  width: 100%;
+  margin: auto;
+  height: 674px;
+}
+
+.sub_slide {
+  width: 100%;
+  height: 674px;
+  background-color: black;
+}
+
+.mySwiper {
+  height: 674px;
+}
+
+.sub_wrap {
+  height: 100%;
+  position: relative;
+}
+
+.sub_wrap img {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper {
+}
+
+.swiper-wrapper {
+}
+
+.swiper-container {
+  border: none; /* 보더 없애기 */
+}
+/* 영화 내용 */
+.sub_box {
+  position: absolute;
+  border-radius: 30px;
+  background-color: #070707da;
+  width: 550px;
+  height: 263px;
+  left: 150px;
+  top: 150px;
+}
+.sub_box .sub_text {
+  padding: 2rem;
+  margin-top: -15px;
+  color: white;
+  font-family: "HakgyoansimWoojuR";
+}
+.sub_box .sub_text h1 {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 3;
+}
+.sub_box .sub_text h2 {
+  font-size: 20px;
+}
+.sub_box .sub_text h3 {
+  font-size: 20px;
+}
+
+span {
+  display: inline-block;
+  font-size: 20px;
+}
+
+/* 영화 동영상 */
+.sub_video {
+  border-radius: 30px;
+  width: 500px;
+  height: 300px;
+  position: absolute;
+  right: 150px;
+  top: 300px;
+}
+
+.sub_video iframe {
+  width: 500px;
+  height: 300px;
+  border-radius: 30px;
+}
+
+/* movie */
+
+.app-container {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: #000000;
+  justify-content: center;
+}
+
+.movie-container {
+  width: 250px;
+  height: 600px;
+  margin: 50px;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.movie-container h2 {
+  color: rgb(189, 184, 184);
+  font-weight: 800;
+  font-size: 1.5rem;
+  border-radius: 10px;
+  background-color: rgba(19, 139, 19, 0.61);
+}
+.movie-container img {
+  max-width: 100%;
+  height: 400px;
+  transition: 0.8s;
+  overflow: hidden;
+}
+.movie-container > img:hover {
+  transform: scale(1.2);
+}
+
+/* 영화 제목 */
+.movie-container h4 {
+  background-color: rgba(4, 12, 4, 0.411);
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+}
+/* 영화 평점 */
+.movie-container span {
+  font-weight: 800;
+  font-size: 0.8rem;
+}
+
+/* 영화 내용 */
+.movie-container p {
+  margin-top: 20px;
+  font-size: 0.8rem;
+  text-overflow: ellipsis;
+  font-family: "HakgyoansimWoojuR";
+}
+
+@media screen and (max-width: 767px) {
+  .SubMainVisual {
+    width: 100%;
+    top: 0;
+    height: 30vh;
+  }
+
+  .Subinner01 {
+    width: 100%;
+    margin: auto;
+    height: 100vh;
+  }
+
+  .sub_slide {
+    width: 100%;
+    height: 50vh;
+  }
+
+  .mySwiper {
+    height: 100vh;
+    width: 100%;
+  }
+
+  .sub_wrap {
+    height: 100%;
+    position: relative;
+  }
+
+  .sub_wrap img {
+    width: 100%;
+    height: 60%;
+  }
+
+  /* 영화 내용 */
+  .sub_box {
+    display: none;
+    position: absolute;
+    border-radius: 30px;
+    background-color: #050505e7;
+    width: 50%;
+    height: 263px;
+    left: 150px;
+    top: 120px;
+  }
+  .sub_box .sub_text {
+    padding: 0rem;
+    margin-top: 10%;
+    color: white;
+  }
+  .sub_box .sub_text h1 {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 3;
+  }
+  .sub_box .sub_text h2 {
+    font-size: 10px;
+  }
+  .sub_box .sub_text h3 {
+    font-size: 10px;
+  }
+
+  span {
+    display: inline-block;
+    font-size: 10px;
+  }
+
+  /* movie */
+  .sub_video {
+    display: none;
+    border-radius: 30px;
+    width: 10%;
+    height: 100%;
+    position: absolute;
+    right: 0px;
+    top: 200px;
+  }
+
+  .sub_video iframe {
+    width: 500px;
+    height: 300px;
+    border-radius: 30px;
+  }
+
+  /* 추천 영화 */
+  .app-container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 3%;
+    background-color: #000000af;
+  }
+
+  .movie-container {
+    width: 100%;
+    height: 100%;
+    margin: -10% auto;
+    text-align: center;
+    overflow: hidden;
+    color: white;
+  }
+
+  .movie-container h2 {
+    color: rgb(189, 184, 184);
+    font-weight: 800;
+    font-size: 1.5rem;
+    border: 0px solid #8d8d8d00;
+    border-radius: 10px;
+    background-color: rgba(4, 12, 4, 0.411);
+  }
+  .movie-container img {
+    max-width: 100%;
+    height: 50%;
+  }
+
+  /* 영화 제목 */
+  .movie-container h4 {
+    background-color: rgba(4, 12, 4, 0.411);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  /* 영화 평점 */
+  .movie-container span {
+    font-weight: 800;
+    font-size: 0.8rem;
+  }
+
+  /* 영화 내용 */
+  .movie-container p {
+    font-size: 0.1rem;
+    text-overflow: clip;
+  }
+}
