@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/khsysr/Movie_project.git/static/css/main.620339b6.css",
-    "main.js": "/khsysr/Movie_project.git/static/js/main.75823c8f.js",
-    "static/js/787.ec704a7a.chunk.js": "/khsysr/Movie_project.git/static/js/787.ec704a7a.chunk.js",
-    "index.html": "/khsysr/Movie_project.git/index.html",
-    "main.620339b6.css.map": "/khsysr/Movie_project.git/static/css/main.620339b6.css.map",
-    "main.75823c8f.js.map": "/khsysr/Movie_project.git/static/js/main.75823c8f.js.map",
-    "787.ec704a7a.chunk.js.map": "/khsysr/Movie_project.git/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/Movie_project/static/css/main.620339b6.css",
+    "main.js": "/Movie_project/static/js/main.ac934026.js",
+    "static/js/787.ec704a7a.chunk.js": "/Movie_project/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/Movie_project/index.html",
+    "main.620339b6.css.map": "/Movie_project/static/css/main.620339b6.css.map",
+    "main.ac934026.js.map": "/Movie_project/static/js/main.ac934026.js.map",
+    "787.ec704a7a.chunk.js.map": "/Movie_project/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.620339b6.css",
-    "static/js/main.75823c8f.js"
+    "static/js/main.ac934026.js"
   ]
 }
