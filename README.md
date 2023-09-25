@@ -1,31 +1,27 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhsysr%2F3_TeamProject&count_bg=%23000000&title_bg=%2334C9EE&icon=reverbnation.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=34C9EE&text=WEBSITE%20RENEWAL%20PROJECT%20&animation=twinkling&fontSize=20&fontAlignY=33&fontAlign=80&height=250&fontColor=d6ace6&desc=%20WATER%20BOMB&descAlignY=55&descAlign=70&descSize=75&rotate=-6
+![header](https://capsule-render.vercel.app/api?type=waving&color=34C9EE&text=WEBSITE%20RENEWAL%20PROJECT%20&animation=twinkling&fontSize=20&fontAlignY=33&fontAlign=80&height=250&fontColor=d6ace6&desc=%Movie%20Site&descAlignY=55&descAlign=70&descSize=75&rotate=-6
 )
 
 - 배포 URL :  https://khsysr.github.io/3_TeamProject
-- 기획서 URL : https://docs.google.com/presentation/d/1si2UPUVSYoXAg-GIhOOEpmwXsEbF6jaaquB5TQ36d9Q/edit?usp=sharing
 - Figma URL : https://www.figma.com/file/XW6ku18pk6lRSt6GmcBVgO/3%EC%A1%B0-%ED%8C%80-%ED%94%84%EB[…]%B8?type=design&node-id=0%3A1&mode=design&t=e3c3yPb9M18gzu2y-1
 
 ## 🙋 프로젝트 소개
 
-<br>
-
-![logo-orange](https://github.com/khsysr/3_TeamProject/assets/139949169/d6c87cda-6a67-41f7-aaf0-187f7b5b2904)
 
 <br>
 
-- 워터밤 사이트는 국내 최대 규모의 음악과 물을 테마로한 페스티벌의 홍보 및 일정을 확인하고 티켓을 예매하기 위한 안내 사이트입니다.
+- 영화 API를 가져와서 영화를 추천해주는 사이트를 제작하였습니다.
 
-- 각 섹션의 기능과 이벤트가 다소 단조롭고 정적이라는 문제점을 중점적으로 고려하여 이를 개선하기 위해 티켓 예매 페이지를 상세하게 재구성하여 외부 사이트에 대한 의존도를 줄였습니다.
+-
 
-- 젊은 세대를 주 타겟으로 설정하고 그들의 취향에 맞는 친화적이며 동적인 요소들을 추가함으로써 사이트를 보다 생동감 있고 재미있게 리뉴얼하였습니다.
+- 
 
 <br>
 
 ## 📆 개발 기간
 
-2023-08-01 ~ 2023-09-03
+2023-09-11 ~ 2023-09-18
 
 <br>
 
@@ -44,13 +40,8 @@
 
 ## 👬 멤버 구성
 
-조승현[팀장, 프론트엔드]
-<br>
-<br>
-김학성[팀원, 프론트엔드]
-<br>
-<br>
-최예인[팀원, 프론트엔드]
+김학성[프론트엔드]
+
 
 <br>
 
