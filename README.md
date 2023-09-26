@@ -4,18 +4,15 @@
 )
 
 - 배포 URL : https://khsysr.github.io/Movie_project
-- Figma URL : https://www.figma.com/file/XW6ku18pk6lRSt6GmcBVgO/3%EC%A1%B0-%ED%8C%80-%ED%94%84%EB[…]%B8?type=design&node-id=0%3A1&mode=design&t=e3c3yPb9M18gzu2y-1
+- Figma URL : https://www.figma.com/file/fBw4cB90LIkswfhz52g65B/%EB%A6%AC%EC%97%91%ED%8A%B8-%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8?type=design&node-id=0%3A1&mode=design&t=LCFNeMYdATLOOr9D-1
 
 ## 🙋 프로젝트 소개
 
 
 <br>
 
-- 영화 API를 가져와서 영화를 추천해주는 사이트를 제작하였습니다.
+- 영화 API를 활용하여 현대적이고 개인화된 영화 추천 서비스를 개발하였습니다. 이 서비스는 사용자들에게 더 나은 영화 시청 경험을 제공하며, 다음과 같은 주요 기능을 제공합니다.
 
--
-
-- 
 
 <br>
 
@@ -25,20 +22,11 @@
 
 <br>
 
-## ⏰ 타임라인
 
-| Week |   Date  | 내용 |
-| ------ | -- |----------- |
-| 1주차 |  08.01 ~ 08.06  |· 주제 선정 및 기획 회의<br>· 레이아웃 및 와이어 프레임 구성<br>· 스타일 가이드 및 상세 내역 작성<br>· 메인 페이지 디자인 완성(데스크탑)<br>· 메인 페이지 1차 마감 |
-| 2주차 |  08.07 ~ 08.13  |· 메인 페이지 2차 마감|
-| 3주차 |  08.14 ~ 08.20  |· 메인 페이지 디자인 완성 및 구현(반응형)<br>· 메인 페이지 3차 마감  |
-| 4주차 |  08.21 ~ 08.27  |· 서브 페이지 디자인 완성 및 구현(데스크탑)<br>· 서브 페이지 1차 마감 |
-| 5주차 |  08.28 ~ 09.01  |· 서브 페이지 디자인 완성 및 구현(반응형)<br>· 서브 페이지 2차 마감   |
-| 6주차 |  09.02 ~ 09.05  |· 기획서 최종 수정 및 발표|
 
 <br>
 
-## 👬 멤버 구성
+## 👬 개발자
 
 김학성[프론트엔드]
 
@@ -52,7 +40,7 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </div>
 <br>
 <div>
@@ -83,7 +71,3 @@
 
 <br>
 
-## 🌟 트러블 슈팅
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=34C9EE&height=150&section=footer)
